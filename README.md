@@ -4,4 +4,4 @@ I built this website using JavaScript to handle API requests that fetch and disp
 
 Live page: https://marco-aceves-portfolio.vercel.app/nasa.html 
 
-![NASA JS API Website](https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github)
+![NASA JS API Website](https://github.com/marcoaceves/marcoaceves/blob/main/nasa.png?raw=true)
