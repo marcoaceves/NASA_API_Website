@@ -1,6 +1,6 @@
 JavaScript NASA API Project. 
 
-I built this website using JavaScript to handle API requests that fetch and display weekly images. It also includes a feature to request random images from the database.
+I built this website using JavaScript to handle API requests that fetch and display weekly images, and Videos. It also includes a feature to request random images from the database.
 
 Live page: https://marco-aceves-portfolio.vercel.app/nasa.html 
 
